@@ -8,4 +8,4 @@ const welcomeMessage = z.render(
 	}
 );
 
-document.getElementsByTagName('body')[0].innerHTML = welcomeMessage;
+z.d('body').innerHTML = welcomeMessage;
