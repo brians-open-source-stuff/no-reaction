@@ -1,6 +1,6 @@
 {
   "name": "zero-js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A very lightweight front-end router and render engine",
   "main": "index.js",
   "scripts": {
