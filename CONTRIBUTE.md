@@ -29,6 +29,6 @@ Please keep the code format and styling to the format already provided in the ba
 * After feedback has been given we expect responses within two weeks. After two weeks we may close the pull request if it isn't showing any activity.
 
 ## Additional resources
-* [Issue tracker](https://github.com/brians-open-source-stuff/zero-js/issues)
+* [Issue tracker](https://github.com/brians-open-source-stuff/no-reaction/issues)
 * [General GitHub documentation](https://help.github.com/)
 * [GitHub pull-request documentation](https://help.github.com/articles/creating-a-pull-request/)

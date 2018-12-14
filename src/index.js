@@ -3,12 +3,12 @@ import { d, D } from './lib/querySelector';
 
 'use strict';
 
-function zero() {
+function noreact() {
 
 }
 
-window.z = zero;
+window.n = noreact;
 
-zero.render = render;
-zero.d = d;
-zero.D = D;
+noreact.render = render;
+noreact.d = d;
+noreact.D = D;

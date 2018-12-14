@@ -1,5 +1,5 @@
 {
-  "name": "zero-js",
+  "name": "no-reaction",
   "version": "0.3.0",
   "description": "A very lightweight front-end router and render engine",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brians-open-source-stuff/zero-js.git"
+    "url": "git+https://github.com/brians-open-source-stuff/no-reaction.git"
   },
   "author": "Brian Emilius <brian@brianemilius.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brians-open-source-stuff/zero-js/issues"
+    "url": "https://github.com/brians-open-source-stuff/no-reaction/issues"
   },
-  "homepage": "https://github.com/brians-open-source-stuff/zero-js#readme",
+  "homepage": "https://github.com/brians-open-source-stuff/no-reaction#readme",
   "devDependencies": {
     "@babel/core": "^7.2.0",
     "@babel/preset-env": "^7.2.0",

@@ -1,11 +1,11 @@
 'use strict';
 
-const welcomeMessage = z.render(
+const welcomeMessage = n.render(
 	`<h1>Hello!</h1>
 	<p>This is a demo of <strong>{{this.name}}</strong>.</p>`,
 	{
-		name: 'ZeroJS'
+		name: 'No Reaction'
 	}
 );
 
-z.d('body').innerHTML = welcomeMessage;
+n.d('body').innerHTML = welcomeMessage;
