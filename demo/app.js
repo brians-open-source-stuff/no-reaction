@@ -2,7 +2,7 @@
 
 const welcomeMessage = n.render(
 	`<h1>Hello!</h1>
-	<p>This is a demo of <strong>{{this.name}}</strong>.</p>
+	<p>This is a demo of <strong><%this.name%></strong>.</p>
 	<button class="testButton">Click me!</button>`,
 	{
 		name: 'No Reaction'
