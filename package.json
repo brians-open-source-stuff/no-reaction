@@ -1,6 +1,6 @@
 {
   "name": "no-reaction",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "A very lightweight front-end router and render engine",
   "main": "index.js",
   "scripts": {
